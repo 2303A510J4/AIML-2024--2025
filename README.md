@@ -8,6 +8,8 @@ lab 04: https://github.com/2303A510J4/AIML-2024--2025/blob/main/AIML%20LAB04.ipy
 
 lab 05: https://github.com/2303A510J4/AIML-2024--2025/blob/main/AIML%20LAB05.ipynb
 
+lab 06: https://github.com/2303A510J4/AIML-2024--2025/blob/main/Lab06-AIML.ipynb
+
 lab 07: https://github.com/2303A510J4/AIML-2024--2025/blob/main/AIML%20LAB07.ipynb
 
 
