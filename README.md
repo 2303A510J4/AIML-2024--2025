@@ -12,6 +12,12 @@
 
 #[LAB 07](https://github.com/2303A510J4/AIML-2024--2025/blob/main/AIML%20LAB07.ipynb)
 
+#[LAB 08]()
+
+#[LAB 09]()
+
+#[LAB 10]()
+
 
 
 
