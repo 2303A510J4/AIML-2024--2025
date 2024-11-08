@@ -14,7 +14,7 @@
 
 #[LAB 08](https://github.com/2303A510J4/AIML-2024--2025/blob/main/Lab%2008.ipynb)
 
-#[LAB 09]()
+#[LAB 09](https://github.com/2303A510J4/AIML-2024--2025/blob/main/Lab%2009.ipynb)
 
 #[LAB 10]()
 
